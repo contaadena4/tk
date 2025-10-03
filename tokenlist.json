@@ -1,0 +1,25 @@
+{
+  "name": "LAB BSC Testnet List",
+  "logoURI": "https://github.com/contaadena4/tk/blob/d5464f1f60a545ddfd3b9b0b2111f8c45dc2acef/usdt-logo.png",
+  "keywords": ["bsc", "testnet", "lab"],
+  "timestamp": "2025-10-03T10:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "<USD_LAB>", 
+      "name": "Unit Dollar Synthetic",
+      "symbol": "UDS",
+      "decimals": 6,
+      "logoURI": "https://github.com/contaadena4/tk/blob/d5464f1f60a545ddfd3b9b0b2111f8c45dc2acef/usdt-logo.png"
+    },
+    {
+      "chainId": 97,
+      "address": "<USDT_MOCK>",
+      "name": "Tether USD (Mock)",
+      "symbol": "USDTm",
+      "decimals": 6,
+      "logoURI": "https://github.com/contaadena4/tk/blob/d5464f1f60a545ddfd3b9b0b2111f8c45dc2acef/usdt-logo.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
